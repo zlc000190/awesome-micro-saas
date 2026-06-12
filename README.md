@@ -96,6 +96,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## Legal & Compliance
 *Protect your business.*
 
+*   [LLC Class](https://llcclass.com/wyoming) - Wyoming LLC registration for non-US founders, starting at $199. Includes [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement — everything needed to accept Stripe and Mercury payments.
 *   [Termly](https://termly.io/) - Free privacy policy generator.
 
 ---
